@@ -60,6 +60,9 @@ Below are example screenshots of the dashboard. Replace the placeholders with yo
 ![Word Cloud](screenshots/wordcloud.png)  
 *Word cloud generated from feedback text*
 
+![GenAI Insights](screenshots/genai_insights.png)
+### 🤖 GenAI Insights
+
 ![Report Export](screenshots/report_export.png)  
 *Multi-format report export options*
 
